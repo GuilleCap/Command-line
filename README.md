@@ -21,3 +21,4 @@ following message when the commands fails: 'Whoops, cannot delete a folder that 
 The command is (rmdir) my-nonexistent-folder
 
 Write the command (or commands) that will navigate to your desktop, and then to the parent folder of the desktop.
+The command is (cd) press enter and then (cd ..) 
