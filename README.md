@@ -8,7 +8,7 @@ See the class page for additional submission instructions.
 
 Questions
 Write the command (or commands) that will display the following message 'Hello from the command line.'
-
+The commands is (echo) "Hello from the command line."
 
 Write the command (or commands) that will create a file named 'hello-world.txt'.
 
