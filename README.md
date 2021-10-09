@@ -14,7 +14,7 @@ Write the command (or commands) that will create a file named 'hello-world.txt'.
 The commands is (touch) hello-world.txt
 
 Write the command (or commands) that will create a folder named 'my-new-folder' in current directory.
-
+The command is (mkdir) my-new-folder
 
 Write the command (or commands) that will attempt to delete a folder named 'my-nonexistent-folder' and display the 
 following message when the commands fails: 'Whoops, cannot delete a folder that does not exist'.
