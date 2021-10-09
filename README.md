@@ -11,7 +11,7 @@ Write the command (or commands) that will display the following message 'Hello f
 The commands is (echo) "Hello from the command line."
 
 Write the command (or commands) that will create a file named 'hello-world.txt'.
-
+The commands is (touch) hello-world.txt
 
 Write the command (or commands) that will create a folder named 'my-new-folder' in current directory.
 
